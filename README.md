@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Anurag Kumar  
 **Full-Stack Web Developer | Tech Enthusiast | IIIT Lucknow (2023–2027)**  
 
-🚀 I’m a Computer Science and Business student at the Indian Institute of Information Technology, Lucknow.  
+🚀 I’m a Computer Science and Artificial Intelligence student at the Indian Institute of Information Technology, Lucknow.  
 💻 Passionate about **Full-Stack Web Development**, **Data Structures & Algorithms**, and exploring **Machine Learning** and **Web3**.  
 🌱 Currently building projects using **React**, **Node.js**, **Express**, and **MongoDB** to strengthen my MERN stack expertise.  
 📫 Reach me at **anuragkr167@gmail.com**  
