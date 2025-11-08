@@ -4,7 +4,7 @@
 🚀 I’m a Computer Science and Business student at the Indian Institute of Information Technology, Lucknow.  
 💻 Passionate about **Full-Stack Web Development**, **Data Structures & Algorithms**, and exploring **Machine Learning** and **Web3**.  
 🌱 Currently building projects using **React**, **Node.js**, **Express**, and **MongoDB** to strengthen my MERN stack expertise.  
-📫 Reach me at **anuragkumar.iiitl@gmail.com**  
+📫 Reach me at **anuragkr167@gmail.com**  
 
 ---
 
