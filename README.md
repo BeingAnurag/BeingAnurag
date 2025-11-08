@@ -11,7 +11,8 @@
 ## 🧠 About Me  
 - 🎭 Overall **Cultural Coordinator** at **IIIT Lucknow**.  
 - 📸 **Coordinator of AfterDark**, the official Photography & Videography Club of IIITL.  
-- 🧩 Strong interest in **backend architecture**, **APIs**, and **system design**.  
+- 🧩 Strong interest in **backend architecture**, **APIs**, and **system design**.
+- 💻 **Contributor at Hacktoberfest** – passionate about open-source development and community learning.
 - 💡 Exploring **open-source** and **blockchain** technologies.  
 - 🎯 3⭐️ on CodeChef | Specialist on Codeforces | Constantly improving competitive programming and problem-solving skills.  
 
